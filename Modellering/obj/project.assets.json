@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\erik.calissendorff\\.nuget\\packages\\": {}
+    "C:\\Users\\Erik Calissendorff\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erik.calissendorff\\Dropbox\\PRRPRR1\\Modellering\\Modellering\\Modellering.csproj",
+      "projectUniqueName": "C:\\Users\\Erik Calissendorff\\Dropbox\\PRRPRR1\\Modellering\\Modellering\\Modellering.csproj",
       "projectName": "Modellering",
-      "projectPath": "C:\\Users\\erik.calissendorff\\Dropbox\\PRRPRR1\\Modellering\\Modellering\\Modellering.csproj",
-      "packagesPath": "C:\\Users\\erik.calissendorff\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erik.calissendorff\\Dropbox\\PRRPRR1\\Modellering\\Modellering\\obj\\",
+      "projectPath": "C:\\Users\\Erik Calissendorff\\Dropbox\\PRRPRR1\\Modellering\\Modellering\\Modellering.csproj",
+      "packagesPath": "C:\\Users\\Erik Calissendorff\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Erik Calissendorff\\Dropbox\\PRRPRR1\\Modellering\\Modellering\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\erik.calissendorff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Erik Calissendorff\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

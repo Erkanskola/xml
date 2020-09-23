@@ -11,3 +11,16 @@ C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Modellering\Modellering\obj\Debug\ne
 C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Modellering\Modellering\obj\Debug\netcoreapp3.1\Modellering.dll
 C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Modellering\Modellering\obj\Debug\netcoreapp3.1\Modellering.pdb
 C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Modellering\Modellering\obj\Debug\netcoreapp3.1\Modellering.genruntimeconfig.cache
+C:\Users\Erik Calissendorff\Dropbox\PRRPRR1\Modellering\Modellering\obj\Debug\netcoreapp3.1\Modellering.csprojAssemblyReference.cache
+C:\Users\Erik Calissendorff\Dropbox\PRRPRR1\Modellering\Modellering\obj\Debug\netcoreapp3.1\Modellering.AssemblyInfoInputs.cache
+C:\Users\Erik Calissendorff\Dropbox\PRRPRR1\Modellering\Modellering\obj\Debug\netcoreapp3.1\Modellering.AssemblyInfo.cs
+C:\Users\Erik Calissendorff\Dropbox\PRRPRR1\Modellering\Modellering\obj\Debug\netcoreapp3.1\Modellering.csproj.CoreCompileInputs.cache
+C:\Users\Erik Calissendorff\Dropbox\PRRPRR1\Modellering\Modellering\obj\Debug\netcoreapp3.1\Modellering.dll
+C:\Users\Erik Calissendorff\Dropbox\PRRPRR1\Modellering\Modellering\obj\Debug\netcoreapp3.1\Modellering.pdb
+C:\Users\Erik Calissendorff\Dropbox\PRRPRR1\Modellering\Modellering\bin\Debug\netcoreapp3.1\Modellering.exe
+C:\Users\Erik Calissendorff\Dropbox\PRRPRR1\Modellering\Modellering\bin\Debug\netcoreapp3.1\Modellering.deps.json
+C:\Users\Erik Calissendorff\Dropbox\PRRPRR1\Modellering\Modellering\bin\Debug\netcoreapp3.1\Modellering.runtimeconfig.json
+C:\Users\Erik Calissendorff\Dropbox\PRRPRR1\Modellering\Modellering\bin\Debug\netcoreapp3.1\Modellering.runtimeconfig.dev.json
+C:\Users\Erik Calissendorff\Dropbox\PRRPRR1\Modellering\Modellering\bin\Debug\netcoreapp3.1\Modellering.dll
+C:\Users\Erik Calissendorff\Dropbox\PRRPRR1\Modellering\Modellering\bin\Debug\netcoreapp3.1\Modellering.pdb
+C:\Users\Erik Calissendorff\Dropbox\PRRPRR1\Modellering\Modellering\obj\Debug\netcoreapp3.1\Modellering.genruntimeconfig.cache
